@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42b2325a943857a45a5c6ccd3040ad60, type: 3}
+  m_Name: MoneyPlantData
+  m_EditorClassIdentifier: Assembly-CSharp::PlantData
+  plantName: MoneyPlant
+  icon: {fileID: -74750161129555883, guid: 2fde5676f2e7a6c458d563420b83242d, type: 3}
+  buyPrice: 300
+  sellPrice: 500
+  timeToGrow: 2
+  growthStages:
+  - {fileID: -3780498461408796120, guid: 183da8337ee7ddf4291206f5af51c625, type: 3}
+  - {fileID: -3443426115871926441, guid: 2fde5676f2e7a6c458d563420b83242d, type: 3}
+  - {fileID: 6293265773265146949, guid: 2fde5676f2e7a6c458d563420b83242d, type: 3}
+  - {fileID: -7713746360222519766, guid: 2fde5676f2e7a6c458d563420b83242d, type: 3}
+  isRegrowable: 1
+  regrowthStageIndex: 1
+  minHarvestTimes: 3
+  maxHarvestTimes: 5
+  deadSprite: {fileID: -7370745758098848616, guid: 2fde5676f2e7a6c458d563420b83242d, type: 3}

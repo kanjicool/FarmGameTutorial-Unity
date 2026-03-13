@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: 2fde5676f2e7a6c458d563420b83242d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8842530381171840010
+    second: morePlantV1_0
+  - first:
+      213: -8618726558086471710
+    second: morePlantV1_1
+  - first:
+      213: -8405616929375153969
+    second: morePlantV1_2
+  - first:
+      213: -3034804716698824113
+    second: morePlantV1_3
+  - first:
+      213: -8171731535535440833
+    second: morePlantV1_4
+  - first:
+      213: 7989244703456336455
+    second: morePlantV1_5
+  - first:
+      213: -3043806226376362785
+    second: morePlantV1_6
+  - first:
+      213: 1082363417745784583
+    second: morePlantV1_7
+  - first:
+      213: -5433529507002778590
+    second: morePlantV1_8
+  - first:
+      213: 6467494470579172996
+    second: morePlantV1_9
+  - first:
+      213: 8789746560157394813
+    second: morePlantV1_10
+  - first:
+      213: 2659740356124868849
+    second: morePlantV1_11
+  - first:
+      213: -6930939314183311828
+    second: morePlantV1_12
+  - first:
+      213: -3443426115871926441
+    second: morePlantV1_13
+  - first:
+      213: 6293265773265146949
+    second: morePlantV1_14
+  - first:
+      213: -7713746360222519766
+    second: morePlantV1_15
+  - first:
+      213: -6803333523803088018
+    second: morePlantV1_16
+  - first:
+      213: -7370745758098848616
+    second: morePlantV1_17
+  - first:
+      213: -74750161129555883
+    second: morePlantV1_18
+  - first:
+      213: 2852513917022487467
+    second: morePlantV1_19
+  - first:
+      213: -5181459705136614736
+    second: morePlantV1_20
+  - first:
+      213: 5207154632131917417
+    second: morePlantV1_21
+  - first:
+      213: 2244350252087101620
+    second: morePlantV1_22
+  - first:
+      213: -1492335661551508094
+    second: morePlantV1_23
+  - first:
+      213: 8988909059132352809
+    second: morePlantV1_24
+  - first:
+      213: 6724613248314532349
+    second: morePlantV1_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 38
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ManEating0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 274
+        width: 73
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04d85d288af6ba70800000000000000
+      internalID: 8842530381171840010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManEating1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 274
+        width: 73
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efd7010cd1246880800000000000000
+      internalID: -8618726558086471710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManEating3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 271
+        width: 125
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0959600ff395b80800000000000000
+      internalID: -8405616929375153969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManEating4
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 270
+        width: 91
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f429c72703532e5d0800000000000000
+      internalID: -3034804716698824113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManEating2
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 268
+        width: 106
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c7d80d67d289e80800000000000000
+      internalID: -8171731535535440833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManEatingIcon
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 279
+        width: 84
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a9f2d9abf7fde60800000000000000
+      internalID: 7989244703456336455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienPlant0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 183
+        width: 72
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4f6b72d5a32c5d0800000000000000
+      internalID: -3043806226376362785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienPlant1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 185
+        width: 70
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f7d983bc3550f00800000000000000
+      internalID: 1082363417745784583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienPlant3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 177
+        width: 84
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cfe7293b93894b0800000000000000
+      internalID: -5433529507002778590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienPlant2
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 180
+        width: 70
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486bca964f721c950800000000000000
+      internalID: 6467494470579172996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienPlant4
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 179
+        width: 71
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77a4e72de37bf970800000000000000
+      internalID: 8789746560157394813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienPlantIcon
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 184
+        width: 47
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0089113cb49e420800000000000000
+      internalID: 2659740356124868849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoneyPlant0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 96
+        width: 71
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e605a5a6b50df90800000000000000
+      internalID: -6930939314183311828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoneyPlant1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 96
+        width: 70
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7579621113e7630d0800000000000000
+      internalID: -3443426115871926441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoneyPlant2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 94
+        width: 70
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544d79ca0eb265750800000000000000
+      internalID: 6293265773265146949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoneyPlant3
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 94
+        width: 70
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e6977fd8443f490800000000000000
+      internalID: -7713746360222519766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoneyPlant4
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 94
+        width: 71
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bd539a434b591a0800000000000000
+      internalID: -6803333523803088018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoneyPlant5
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 95
+        width: 71
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8940dcee8c9d5b990800000000000000
+      internalID: -7370745758098848616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoneyPlantIcon
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 98
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55838fedf1f66fef0800000000000000
+      internalID: -74750161129555883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WitheredPlant0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 4
+        width: 68
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3cbf45b4a269720800000000000000
+      internalID: 2852513917022487467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WitheredPlant1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 3
+        width: 70
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2f459c9d1c718b0800000000000000
+      internalID: -5181459705136614736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WitheredPlant2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 3
+        width: 69
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966b0ca9c87834840800000000000000
+      internalID: 5207154632131917417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WitheredPlant3
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 3
+        width: 68
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8c537c9a8852f10800000000000000
+      internalID: 2244350252087101620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WitheredPlant4
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 4
+        width: 69
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285239f5f982a4be0800000000000000
+      internalID: -1492335661551508094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WitheredPlant5
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 3
+        width: 68
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929efdbf9250fbc70800000000000000
+      internalID: 8988909059132352809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WitheredPlantIcon
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 6
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df16cadee10a25d50800000000000000
+      internalID: 6724613248314532349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9abab370d38e12144afb8b05077b3764
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AlienPlant0: -3043806226376362785
+      AlienPlant1: 1082363417745784583
+      AlienPlant2: 6467494470579172996
+      AlienPlant3: -5433529507002778590
+      AlienPlant4: 8789746560157394813
+      AlienPlantIcon: 2659740356124868849
+      ManEating0: 8842530381171840010
+      ManEating1: -8618726558086471710
+      ManEating2: -8171731535535440833
+      ManEating3: -8405616929375153969
+      ManEating4: -3034804716698824113
+      ManEatingIcon: 7989244703456336455
+      MoneyPlant0: -6930939314183311828
+      MoneyPlant1: -3443426115871926441
+      MoneyPlant2: 6293265773265146949
+      MoneyPlant3: -7713746360222519766
+      MoneyPlant4: -6803333523803088018
+      MoneyPlant5: -7370745758098848616
+      MoneyPlantIcon: -74750161129555883
+      WitheredPlant0: 2852513917022487467
+      WitheredPlant1: -5181459705136614736
+      WitheredPlant2: 5207154632131917417
+      WitheredPlant3: 2244350252087101620
+      WitheredPlant4: -1492335661551508094
+      WitheredPlant5: 8988909059132352809
+      WitheredPlantIcon: 6724613248314532349
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
